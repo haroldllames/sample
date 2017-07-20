@@ -6,7 +6,7 @@
         .new_user{color: #999999; font-size: 12px; font-family: arial; padding: 25px; padding-top: 85px}
     </style>
     </head>
-    <body>
+    <body class="haroldclass">
     <div id="chat"></div>
     <b id="if_typing"></b>
     <form id="send-message">
